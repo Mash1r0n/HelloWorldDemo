@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        String User = "Molchanov Stanislav";
-        System.out.printf("This task done by " + User);
+        String User = "Stanislav Molchanov";
+        System.out.printf("This task done by: " + User);
     }
 }
