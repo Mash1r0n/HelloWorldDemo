@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         String User = "Molchanov Stanislav";
-        System.out.printf("This task done by: " + User);
+        System.out.printf("This task done by " + User);
     }
 }
